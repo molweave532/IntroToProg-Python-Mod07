@@ -23,6 +23,8 @@ A try-except block is used to catch errors that will cause a program to stop exe
 
 ![A basic try-except block.](/docs/EH-figure-1.png "A basic try-except block.")
 
+***Figure 1.***  A basic try-except block.
+
 Suppose the program is expecting a number as input and the user enters a string instead (**figure 2**).
 
 
