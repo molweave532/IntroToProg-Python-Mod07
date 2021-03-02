@@ -21,9 +21,7 @@ https://realpython.com/python-exceptions/ (**external link**)
 ## Try-Except Block
 A try-except block is used to catch errors that will cause a program to stop executing, often related to faulty user input. The point is to catch the error and allow the user to fix the input rather than allowing the program to crash.  The code is very simple (**figure 1**).
 
-####
-![A basic try-except block.](docs/EH-figure-1.png #A basic try-except block.")
-#### Figure 1.  A basic try-except block.
+![A basic try-except block.](/docs/EH-figure-1.png "A basic try-except block.")
 
 Suppose the program is expecting a number as input and the user enters a string instead (**figure 2**).
 
